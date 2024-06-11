@@ -2,7 +2,7 @@
 
 Previous-generation eLearning authoring software suite, as its creator intended.
 
-For its development please visit [GitHub](https://github.com/ClewordX)
+For its development please visit [GitHub](https://github.com/ClewordX).
 
 ## History
 
